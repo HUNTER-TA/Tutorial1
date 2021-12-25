@@ -1,0 +1,7 @@
+name: Tutorial1
+version: '${project.version}'
+main: net.hunterta.mc.plugins.tutorial.tutorial1.Tutorial1
+api-version: 1.17
+authors: [ HUNTER ]
+description: チュートリアル1
+website: https://mc.hunterta.net/
